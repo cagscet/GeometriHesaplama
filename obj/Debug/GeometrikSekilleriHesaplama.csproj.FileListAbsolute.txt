@@ -1,0 +1,8 @@
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\GeometrikSekilleriHesaplama\GeometrikSekilleriHesaplama\bin\Debug\GeometrikSekilleriHesaplama.exe.config
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\GeometrikSekilleriHesaplama\GeometrikSekilleriHesaplama\bin\Debug\GeometrikSekilleriHesaplama.exe
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\GeometrikSekilleriHesaplama\GeometrikSekilleriHesaplama\bin\Debug\GeometrikSekilleriHesaplama.pdb
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\GeometrikSekilleriHesaplama\GeometrikSekilleriHesaplama\obj\Debug\GeometrikSekilleriHesaplama.csproj.AssemblyReference.cache
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\GeometrikSekilleriHesaplama\GeometrikSekilleriHesaplama\obj\Debug\GeometrikSekilleriHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\GeometrikSekilleriHesaplama\GeometrikSekilleriHesaplama\obj\Debug\GeometrikSekilleriHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\GeometrikSekilleriHesaplama\GeometrikSekilleriHesaplama\obj\Debug\GeometrikSekilleriHesaplama.exe
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\GeometrikSekilleriHesaplama\GeometrikSekilleriHesaplama\obj\Debug\GeometrikSekilleriHesaplama.pdb
